@@ -1,0 +1,37 @@
+body {
+    background-color: azure;
+    font-family: Helvetia;
+    font-size: small;
+}
+
+h1 {
+    font-family:  Garamond;
+    color: #5ca0d3;
+    
+}
+
+h2 {
+    font-family: Garamond;
+    color: seagreen;
+}
+
+button{
+    border-style: dashed;
+    font-style: initial;
+    font-size: x-small;
+}
+
+.share{
+    font-size: small;
+    font-family: monospace;
+}
+
+.video{
+ 
+    font-family: monospace;
+}
+
+textarea{
+    font-family: monospace;
+}
+ 
